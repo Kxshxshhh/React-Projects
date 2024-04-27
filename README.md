@@ -1,3 +1,4 @@
-﻿# React-Projects
- This repository includes a bunch of React Projects. 
- So Have fun exploring every single one of them.
+﻿# Islamic Quiz App
+ To test your basic Islamic Knowledge, Answer the Quiz.
+ See your score at the end of the Quiz.
+ Highlights the correct and the wrong selected options.
