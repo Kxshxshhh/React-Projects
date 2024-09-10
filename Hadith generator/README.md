@@ -1,1 +1,3 @@
- API KEY = $2y$10$v9FEiabhb4hxaIVvGhJuYnp8VN2FnWxWYpWOaHoDkPn6qhNDcq
+Hadith Generator Project made with React.js with vite
+Displays authentic Hadiths from Sahih Bukhari And Sahih Muslim
+Displays the narrator and the source of the hadith
