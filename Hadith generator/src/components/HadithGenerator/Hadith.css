@@ -1,0 +1,49 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    align-items: center;
+    margin-top: 40px;
+}
+.bismillah{
+    font-size: 60px;
+    padding-bottom: 50px;
+}
+.Narrator{
+    font-size:22px ;
+    padding-bottom: 50px;
+}
+.hadith_container{
+    background: #222244; 
+    box-sizing: content-box;
+    max-width: 800px;
+    height: auto;
+    padding: 20px;
+    border-radius: 20px;
+    margin-bottom: 30px;
+    margin: 40px;
+}
+button{
+    height: 50px;
+    width: 150px;
+    margin-top: 30px;
+    background-color: transparent;
+    border: 1px solid white;
+    color: #fff;
+    font-size:15px;
+    border-radius: 10px;
+}
+button:hover{
+    border:1px solid black;
+    transition: 0.3s all ease-in;
+    background: #fff;
+    color: black;
+    cursor: pointer;
+}
+footer img{
+    height: 20px;
+    background: transparent;
+}
+.share_hadith{
+    margin-top: 20px;
+}
